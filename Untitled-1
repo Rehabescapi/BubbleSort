@@ -1,0 +1,6 @@
+const Test = function (Saying) => {
+    console.log(Saying)
+}
+
+
+return Test(process.argv);
